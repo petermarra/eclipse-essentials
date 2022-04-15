@@ -7,4 +7,8 @@ public class Examples {
 		// TODO another todo
 	}
 
+	public void addedMethod() {
+
+	}
+
 }
