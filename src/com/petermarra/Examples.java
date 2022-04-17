@@ -7,8 +7,9 @@ public class Examples {
 		// TODO another todo
 	}
 
-	public void addedMethod() {
+	public void example() {
 
+		String str = "";
 	}
 
 }
